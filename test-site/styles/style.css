@@ -1,0 +1,29 @@
+html {
+    /* px 表示 “像素（pixels）”: 基础字号为 10 像素 */
+    font-size: 10px; 
+    /* Google fonts 输出的 CSS */
+    font-family: 'ZCOOL KuaiLe', cursive;
+    background-color: #819A9C;
+  }
+  h1 {
+    margin : 0;
+    font-size: 60px;
+    text-align: center;
+  }
+  
+  p, li {
+    font-size: 20px;    
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  body {
+    width: 660px;
+    margin: 0 auto;
+    background-color: rgb(112, 177, 221);
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+  }
